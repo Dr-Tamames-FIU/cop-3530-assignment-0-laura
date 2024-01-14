@@ -9,7 +9,7 @@ Do not click while already in Visual Studio!
 
 For assignment 0, please type your name bellow and commit the changes.
 
-.....
+Laura Pena Barrientos
 
 
 After replacing the dots for your name, click Source Control:
